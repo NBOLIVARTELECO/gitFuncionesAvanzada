@@ -18,7 +18,9 @@ import math
 
 
 print("Verificacion del archivo")
-#area_circulo(10)
+def area_circulo(r):
+  z = math.pi * r ** 2
+  print(z)
 
 
 
