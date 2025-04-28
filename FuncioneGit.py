@@ -20,6 +20,10 @@ import math
 print("Verificacion del archivo")
 #area_circulo(10)
 
+def areaCuadrado(l,a):
+    z = l*a
+    print(z)
+
 
 
 
