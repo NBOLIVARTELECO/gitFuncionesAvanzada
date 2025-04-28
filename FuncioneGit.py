@@ -19,11 +19,16 @@ import math
 
 print("Verificacion del archivo")
 def area_circulo(r):
-  z = math.pi * r ** 2
-  print(z)
+    z = math.pi * r ** 2
+    print(z)
 
 def areaCuadrado(l,a):
     z = l*a
+    print(z)
+
+
+def areaTriangulo(a,b):
+    z = a*b/2
     print(z)
 
 
